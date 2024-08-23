@@ -7,6 +7,8 @@
 
 ### Reflexion
 
+Ich habe meine Hausufgaben fertig machen können. Ich habe auch das Ziel meiner Moodle Aufgabe erledigen können. 
+
 
 
 
