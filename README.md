@@ -6,6 +6,8 @@
 
 ### Reflexion
 
+ich habe heute leider nicht können meine Ziele erreichen, aber ich konnte andere wichtige Sachen lernen wie z.B. man eine "while" schleife machen kann. 
+
 
 # Lernatelier 23.08.2024
 
