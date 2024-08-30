@@ -1,4 +1,14 @@
+# Lernateluer 30.08.2024
+## Ziele 
+1. Ich möchte zuerst die Aufgabe 6907 vom Modul 319 fertigstellen
+2. ich mache weitere Aufgaben im Modul 319 
+3. ich mache eine aufgabe im Modul 431
+
+### Reflexion
+
+
 # Lernatelier 23.08.2024
+
 ## Ziele
 1. ich schaue zuerst welche Hausaufgaben ich noch haben könnte vom Dienstag oder Mittwoch
 2. ich löse diese Aufgaben
@@ -8,8 +18,6 @@
 ### Reflexion
 
 Ich habe meine Hausufgaben fertig machen können. Ich habe auch das Ziel meiner Moodle Aufgabe erledigen können. 
-
-
 
 
 # Lernatelier-16.08.2024
