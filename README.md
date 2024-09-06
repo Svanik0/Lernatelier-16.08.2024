@@ -1,3 +1,13 @@
+# Lernatelier 06.09.2024
+## Ziele 
+1. ich möchte meine Hausaufgaben im Modul 319 und 431 machen
+2. Ich wil beim Input möglichst viel profitieren
+
+### Reflexion 
+
+ich konnte beim Input profiteren und habe Aufgaben gemacht.
+
+
 # Lernateluer 30.08.2024
 ## Ziele 
 1. Ich möchte zuerst die Aufgabe 6907 vom Modul 319 fertigstellen
