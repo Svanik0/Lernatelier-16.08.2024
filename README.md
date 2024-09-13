@@ -1,10 +1,10 @@
 # Lernatelier 13.09.2024
 ## Ziele
-1. Ich möchte die Hausaufgaben machen von Modul 319 und evt. noch 431
-2. Ich möchte beim Input möglichst viel dazu lernen.
+1. Ich möchte die Hausaufgaben machen von Modul 319 
+2. ich möchte auch ein Paar Aufgaben im Modul 431
 
 ### Reflexion
-
+ich habe ein paar Aufgaben im Modul 431 gemacht.
 
 # Lernatelier 06.09.2024
 ## Ziele 
