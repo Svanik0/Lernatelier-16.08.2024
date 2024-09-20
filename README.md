@@ -1,7 +1,7 @@
 # Lernatelier 20.09.2024
 ## Ziele
 1. Ich möchte die Hausaufgaben des M431 fertigstellen
-2. Input mitmachen
+2. freiwilligen Aufgabe machen mind. 1
 
 ### Reflexion
 
