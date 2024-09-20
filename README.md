@@ -1,3 +1,12 @@
+# Lernatelier 20.09.2024
+## Ziele
+1. Ich möchte die Hausaufgaben des M431 fertigstellen
+2. Input mitmachen
+
+### Reflexion
+
+
+
 # Lernatelier 13.09.2024
 ## Ziele
 1. Ich möchte die Hausaufgaben machen von Modul 319 
