@@ -4,7 +4,7 @@
 2. freiwilligen Aufgabe machen mind. 1
 
 ### Reflexion
-
+Ich habe ein paar aufgaben zu M431 gemacht und eine freiwilligen Aufgabe habe ich gemacht. 
 
 
 # Lernatelier 13.09.2024
