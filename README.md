@@ -1,7 +1,7 @@
 # Lernatelier 18.10.2024
 ## Ziele
-1. Ich möchte möglichst vieles repetieren
-2. ich möchte in den Inputs profitieren
+1. Ich möchte möglichst vieles repetieren (Arrays, ...)
+2. Ich möchte nicht verstandenes fragen.
 
 ## Reflexion
 
