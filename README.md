@@ -1,3 +1,11 @@
+# Lernatelier 18.10.2024
+## Ziele
+1. Ich möchte möglichst vieles repetieren
+2. ich möchte in den Inputs profitieren
+
+## Reflexion
+
+
 # Lernatelier 20.09.2024
 ## Ziele
 1. Ich möchte die Hausaufgaben des M431 fertigstellen
