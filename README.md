@@ -4,7 +4,7 @@
 2. Ich möchte nicht verstandenes fragen.
 
 ## Reflexion
-
+Ich konnte ein Paar Sachen repetieren mit dem Internet und Hilfe anderer Schüler.
 
 # Lernatelier 20.09.2024
 ## Ziele
