@@ -1,3 +1,8 @@
+# Lernatelier 25.10.2024
+## Ziele 
+1. Ich will weiteres Repetieren die ich leztes mal nicht machen konnte.
+2. Ich möchte die Dinge die ich nicht anwenden kann (nicht verstehe) fragen. 
+
 # Lernatelier 18.10.2024
 ## Ziele
 1. Ich möchte möglichst vieles repetieren (Arrays, ...)
