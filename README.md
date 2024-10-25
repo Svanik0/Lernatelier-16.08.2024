@@ -1,8 +1,10 @@
 # Lernatelier 25.10.2024
 ## Ziele 
 1. Ich will weiteres Repetieren die ich leztes mal nicht machen konnte.
-2. Ich möchte die Dinge die ich nicht anwenden kann (nicht verstehe) fragen. 
+2. Ich möchte die Dinge die ich nicht anwenden kann (nicht verstehe) fragen.
 
+### Reflexion
+Ich habe beim Input die Aufgabe gemacht und über die Schleifen For und if gelernt. 
 # Lernatelier 18.10.2024
 ## Ziele
 1. Ich möchte möglichst vieles repetieren (Arrays, ...)
