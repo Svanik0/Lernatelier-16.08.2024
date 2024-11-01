@@ -4,7 +4,7 @@
 2. Input mitmachen
 
 ### Reflexion
-
+Ich habe ein bisschen repetiert und habe beim Input mitgemacht.
 
 # Lernatelier 25.10.2024
 ## Ziele 
