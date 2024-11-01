@@ -1,3 +1,11 @@
+# Lernatelier 01.11.2024
+## Ziele
+1. Für den Test lernen und Repetieren.
+2. Input mitmachen
+
+### Reflexion
+
+
 # Lernatelier 25.10.2024
 ## Ziele 
 1. Ich will weiteres Repetieren die ich leztes mal nicht machen konnte.
