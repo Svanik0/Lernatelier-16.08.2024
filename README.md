@@ -4,7 +4,7 @@
 2. Programmier-Projekt von Aarau weitermachen.
 
 ### Reflexion
-
+Ich habe ein Paar Aufgaben bei M162 gemacht. 
 
 # Lernatelier 01.11.2024
 ## Ziele
