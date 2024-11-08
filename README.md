@@ -1,3 +1,11 @@
+# Lernatelier 08.11.2024
+## Ziele
+1. Modul 162 weitermachen
+2. Programmier-Projekt von Aarau weitermachen.
+
+### Reflexion
+
+
 # Lernatelier 01.11.2024
 ## Ziele
 1. Für den Test lernen und Repetieren.
