@@ -1,3 +1,11 @@
+# Lernatelier 15.11.2024
+## Ziele 
+1. Ich möchte gemeinsam mit Aleks und Daniel beim Projekt ein Switch-case zur Überprüfung der Bedingungen für die Unternehmensgrösse (Mitarbeiteranz. und die Jahresbilanz nach Kundenwunsch) programmieren.
+2. Ich möchte beim M162 weiterarbeiten.
+
+### Reflexion
+
+
 # Lernatelier 08.11.2024
 ## Ziele
 1. Modul 162 weitermachen
