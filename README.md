@@ -4,7 +4,7 @@
 2. Ich möchte beim M162 weiterarbeiten.
 
 ### Reflexion
-
+Ich habe mit Aleks und Daniel das Ziel erreicht, aber die Modul aufträge habe ich nicht weitergemacht. 
 
 # Lernatelier 08.11.2024
 ## Ziele
