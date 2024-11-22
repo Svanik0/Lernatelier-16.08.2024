@@ -1,3 +1,12 @@
+# Lernaltelier 22.11.2024
+## Ziele 
+1. Ich möchte weiter im M162 arbeiten, weil ich ein bisschen hinterher bin.
+2. Ich möchte evt. wenn die Zeit reicht mit Arda ein Projekt, dass wir uns noch ausdenken programieren.
+3. Vielleicht mache ich am teamprojekt weiter, weil aleks und daniel nicht da sind
+
+### Reflexion
+
+
 # Lernatelier 15.11.2024
 ## Ziele 
 1. Ich möchte gemeinsam mit Aleks und Daniel beim Projekt ein Switch-case zur Überprüfung der Bedingungen für die Unternehmensgrösse (Mitarbeiteranz. und die Jahresbilanz nach Kundenwunsch) programmieren.
