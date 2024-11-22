@@ -5,7 +5,7 @@
 3. Vielleicht mache ich am teamprojekt weiter, weil aleks und daniel nicht da sind
 
 ### Reflexion
-
+Ich habe ein paar Aufträge gemacht. ich habe kein projekt mit arda gemacht und beim programmierprojekt versucht weiterzumachen, aber habe mich dann entschlossen doch nichts zu machen.
 
 # Lernatelier 15.11.2024
 ## Ziele 
