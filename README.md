@@ -1,3 +1,10 @@
+# Lernatelier 29.11.2024
+## Ziele 
+1. Ich möchte Powerpoint Präsi mit Daniel und Aleks fertigstellen.
+2. Ich möchte diese dann auch mit den anderen üben.
+3. Ich möchte mind. 2 weitere Aufträge im M162 machen.
+
+
 # Lernaltelier 22.11.2024
 ## Ziele 
 1. Ich möchte weiter im M162 arbeiten, weil ich ein bisschen hinterher bin.
