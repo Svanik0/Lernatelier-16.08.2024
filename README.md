@@ -4,6 +4,10 @@
 2. Ich möchte diese dann auch mit den anderen üben.
 3. Ich möchte mind. 2 weitere Aufträge im M162 machen.
 
+### Reflexion
+Wir haben die Präsentatuion gemacht und sind fast fertig. Ich habe mit Daniel und Aleks die aufteilung besprochen und geprobt. 
+ausserdem habe ich noch am M162 2 Aufgaben gemacht. 
+
 
 # Lernaltelier 22.11.2024
 ## Ziele 
