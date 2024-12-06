@@ -1,8 +1,11 @@
 # Lernatelier 06.12.2024
 ## Ziele 
-1. Ich möchte Hauptsächlich für den Test am Mittwoch vorbereiten.
+1. Ich möchte Hauptsächlich für den Test am Mittwoch vorbereiten. Vorallem Normalisierung
 2. Ich möchte beim Input der Gesamtrepition möglichst viel profitieren
-3. Evtl. noch am Portfolio arbeiten. 
+3. Evtl. noch am Portfolio arbeiten.
+
+### Reflexion
+Ich habe beim Input mitgemacht und habe bei der Teilaufgabe 1 sehr gut können profitieren, aber bei der 2. Aufgabe habe ich es nicht so gut verstanden und muss dies Zuhause noch einmal anschauen. Ich habe nicht am Portfolio gearbeitet. 
 
 # Lernatelier 29.11.2024
 ## Ziele 
