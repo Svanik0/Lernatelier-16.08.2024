@@ -1,3 +1,9 @@
+# Lernatelier 06.12.2024
+## Ziele 
+1. Ich möchte Hauptsächlich für den Test am Mittwoch vorbereiten.
+2. Ich möchte beim Input der Gesamtrepition möglichst viel profitieren
+3. Evtl. noch am Portfolio arbeiten. 
+
 # Lernatelier 29.11.2024
 ## Ziele 
 1. Ich möchte Powerpoint Präsi mit Daniel und Aleks fertigstellen.
