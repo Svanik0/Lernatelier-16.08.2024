@@ -1,3 +1,6 @@
+# Programierprojekt Tetrist (mit Tim)
+Tim und ich werden zusammen versuchen in C# ein Tetrist Programm zu programmieren, welches Spielähnlich wie der Retroklassiker aussehen wird. 
+
 # Lernatelier 06.12.2024
 ## Ziele 
 1. Ich möchte Hauptsächlich für den Test am Mittwoch vorbereiten. Vorallem Normalisierung
