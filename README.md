@@ -5,7 +5,7 @@
 3. Github Repos machen
 
 ### Reflexion
-
+Ich habe alle meine Ziele erreicht und ich hatte noch Zeit ein bisschen zum Entspannen die ich auch genutzt habe.
 
 # Programierprojekt Tetrist (mit Tim)
 Tim und ich werden zusammen versuchen in C# ein Tetrist Programm zu programmieren, welches Spielähnlich wie der Retroklassiker aussehen wird. 
