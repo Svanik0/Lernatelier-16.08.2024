@@ -1,3 +1,12 @@
+# Lernatelier 13.12.2024
+## Ziele 
+1. Anforderung und Doku anfangen
+2. Schauen ob eine Konsolenerweiterung nötig ist.
+3. Github Repos machen
+
+### Reflexion
+
+
 # Programierprojekt Tetrist (mit Tim)
 Tim und ich werden zusammen versuchen in C# ein Tetrist Programm zu programmieren, welches Spielähnlich wie der Retroklassiker aussehen wird. 
 
