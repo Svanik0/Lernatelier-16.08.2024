@@ -4,7 +4,7 @@
 2. Mit Tim Recherche betreiben über unser Projekt
 
 ### Reflexion 
-
+Wir konnte die Recherche machen. Wir haben uns hauptsächlich auf das M117 konzentriert, weil wir noch hinterher gewesen sind.
 
 # Lernatelier 13.12.2024
 ## Ziele 
