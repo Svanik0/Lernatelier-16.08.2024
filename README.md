@@ -1,3 +1,11 @@
+# Lernatelier 20.12.2024
+## Ziele 
+1. Am M117 weiterarbeiten
+2. Mit Tim Recherche betreiben über unser Projekt
+
+### Reflexion 
+
+
 # Lernatelier 13.12.2024
 ## Ziele 
 1. Anforderung und Doku anfangen
