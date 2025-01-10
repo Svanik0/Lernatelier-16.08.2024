@@ -1,3 +1,11 @@
+# Lernatelier 10.01.2025
+## Ziele 
+1. Ich werde heute nicht am Projekt weiterarbeiten, weil ich noch im M117 noch hinterdrin bin.
+2. Ich werde evtl auch im M164 weitermachen.
+
+### Reflexion 
+
+
 # Lernatelier 20.12.2024
 ## Ziele 
 1. Am M117 weiterarbeiten
