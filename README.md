@@ -4,6 +4,7 @@
 2. Ich werde evtl auch im M164 weitermachen.
 
 ### Reflexion 
+Ich konnte am M117 weiterarbeiten und am M164 ebenso. 
 
 
 # Lernatelier 20.12.2024
