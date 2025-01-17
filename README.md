@@ -1,3 +1,11 @@
+# Lernatelier 17.01.2025
+## Ziele 
+1. Weil Hr. Ackeret heute nicht da ist, möchte ich nicht an dem Projekt arbeiten. Ich möchte M164 noch aktuell werden.
+2. In M117 auch noch weiterkommen.
+
+### Reflexion
+
+
 # Lernatelier 10.01.2025
 ## Ziele 
 1. Ich werde heute nicht am Projekt weiterarbeiten, weil ich noch im M117 noch hinterdrin bin.
