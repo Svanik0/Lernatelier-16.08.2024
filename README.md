@@ -2,6 +2,7 @@
 ## Ziele 
 1. Weil Hr. Ackeret heute nicht da ist, möchte ich nicht an dem Projekt arbeiten. Ich möchte M164 noch aktuell werden.
 2. In M117 auch noch weiterkommen.
+3. Den Anfang vom Tetris-Programm zu machen.
 
 ### Reflexion
 
